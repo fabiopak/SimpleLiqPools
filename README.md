@@ -1,4 +1,4 @@
-# Sample Hardhat Project
+# Liquidity Pool Sample
 
 This project demonstrates a basic liquidity pool sample.
 
